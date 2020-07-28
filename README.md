@@ -2,9 +2,9 @@
 
 --> I am a Computer Scientist, my professional interests are Web developing and Artificial inteligence.
 
-🔭 My personal interests are Games, Animes, table RPG,  Series, Movies, Mangas, Sports and Books.
-🌱 I’m currently learning React and improving my programation skills!
-⚡ I'm looking for a 
+🔭 My personal interests are Games, Animes, table RPG,  Series, Movies, Mangas, Sports and Books. \n
+🌱 I’m currently learning React and improving my programation skills! \n
+⚡ I'm looking for a \n
       ### ✨ JOB ✨
 
 ### Have a nive day! 👋
