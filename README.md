@@ -3,7 +3,7 @@
 ##### --> I am a Computer Scientist, my professional interests are Web developing and Artificial inteligence.<br />
 
 
-🔭 My personal interests are Games, Animes, table RPG,  Series, Movies, Mangas, Sports and Books.<br />
+🔭 My personal interests are Games, Animes, tabletop RPG,  Series, Movies, Mangas, Sports and Books.<br />
 🌱 I’m currently learning React and improving my programation skills!<br />
 
 ## ⚡ Searching for JOB ⚡ <br />
