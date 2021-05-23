@@ -6,8 +6,6 @@
 🔭 My personal interests are Games, Animes, tabletop RPG,  Series, Movies, Mangas, Sports and Books.<br />
 🌱 I’m evolving in React and improving my programation skills!<br />
 
-## ⚡ Searching for JOB ⚡ <br />
-
 
 #### Have a nive day! 👋 <br />
 
