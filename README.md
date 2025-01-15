@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-##### --> I am a Computer Scientist, my professional interests are Web developing and Artificial inteligence.<br />
+##### --> Computer Scientist degree, my professional interests are Web developing. <br />
 
 
 🔭 My personal interests are Games, Animes, tabletop RPG,  Series, Movies, Mangas, Sports and Books.<br />
